@@ -12,7 +12,13 @@
 
 ### default
 
-▸ **default**(): `JSX.Element`
+▸ **default**(`«destructured»`): `JSX.Element`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `«destructured»` | `InterfaceLoginPortalToggleProps` |
 
 #### Returns
 
@@ -20,4 +26,4 @@
 
 #### Defined in
 
-[src/components/LoginPortalToggle/LoginPortalToggle.tsx:8](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/LoginPortalToggle/LoginPortalToggle.tsx#L8)
+[src/components/LoginPortalToggle/LoginPortalToggle.tsx:12](https://github.com/Sahi1l-Kumar/talawa-admin/blob/3d595e8/src/components/LoginPortalToggle/LoginPortalToggle.tsx#L12)

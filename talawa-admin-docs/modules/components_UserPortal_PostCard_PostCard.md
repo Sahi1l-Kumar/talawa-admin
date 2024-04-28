@@ -18,7 +18,7 @@
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `InterfacePostCardProps` |
+| `props` | `InterfacePostCard` |
 
 #### Returns
 
@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/components/UserPortal/PostCard/PostCard.tsx:71](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/UserPortal/PostCard/PostCard.tsx#L71)
+[src/components/UserPortal/PostCard/PostCard.tsx:40](https://github.com/Sahi1l-Kumar/talawa-admin/blob/3d595e8/src/components/UserPortal/PostCard/PostCard.tsx#L40)
